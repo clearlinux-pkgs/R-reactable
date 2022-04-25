@@ -4,7 +4,7 @@
 #
 Name     : R-reactable
 Version  : 0.2.3
-Release  : 2
+Release  : 3
 URL      : https://cran.r-project.org/src/contrib/reactable_0.2.3.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/reactable_0.2.3.tar.gz
 Summary  : Interactive Data Tables Based on 'React Table'
