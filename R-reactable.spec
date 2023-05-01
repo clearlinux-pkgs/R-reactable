@@ -4,7 +4,7 @@
 #
 Name     : R-reactable
 Version  : 0.4.4
-Release  : 12
+Release  : 13
 URL      : https://cran.r-project.org/src/contrib/reactable_0.4.4.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/reactable_0.4.4.tar.gz
 Summary  : Interactive Data Tables for R
